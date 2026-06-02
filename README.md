@@ -6,6 +6,8 @@
   </a>
 </p>
 
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/giang-le-bb7b391a1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://portfolio-gianglt2198s-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -14,6 +16,7 @@
   <a href="https://dev.to/YOUR_HANDLE"><img src="https://img.shields.io/badge/Blog-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="Blog" /></a>
   -->
 </p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ---
 
@@ -54,11 +57,6 @@
 ---
 
 ### GitHub Stats
-
-<br/>
-  <img  align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gianglt2198&theme=radical&hide_border=true" />
-
-<br/>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gianglt2198&theme=tokyonight&hide_border=true" height="160" />
